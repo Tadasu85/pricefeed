@@ -1,7 +1,7 @@
 {
   "name": "pricefeed",
   "version": "1.1.0",
-  "description": "Price feed publisher for Steem witnesses",
+  "description": "Price feed publisher for Muse witnesses",
   "main": "feed.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MattyIce/pricefeed.git"
+    "url": "git+https://github.com/Tadasu85/pricefeed"
   },
-  "author": "yabapmatt",
+  "author": "yabapmatt, Tadasu85",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MattyIce/pricefeed/issues"
+    "url": "https://github.com/Tadasu85/pricefeed/issues"
   },
-  "homepage": "https://github.com/MattyIce/pricefeed#readme",
+  "homepage": "https://github.com/Tadasu85/pricefeed#readme",
   "dependencies": {
     "request": "^2.83.0",
-    "steem": "^0.7.1"
+    "museblockchain-js": "git://github.com/themuseblockchain/Muse-JS.git"
   }
 }
