@@ -13,7 +13,7 @@ $ sudo apt-get install -y nodejs
 Clone the project repo into the "pricefeed" directory and install using NPM:
 
 ```
-$ git clone https://github.com/MattyIce/pricefeed.git pricefeed
+$ git clone https://github.com/Tadasu85/pricefeed.git pricefeed
 $ cd pricefeed
 $ npm install
 ```
